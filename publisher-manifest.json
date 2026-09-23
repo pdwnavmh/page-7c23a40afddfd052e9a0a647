@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "85b37cdd17f014b11286303e",
+  "owner": "pdwnavmh",
+  "repo": "page-7c23a40afddfd052e9a0a647",
+  "title": "One",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7c23a40afddfd052e9a0a647",
+      "a": "One",
+      "b": "机场官网线路发布页",
+      "entity": "One",
+      "brand": "One",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f73883eae55ece914406da56a0fba304a9553e6bd13f449c20f8ef596257b004",
+      "content": {
+        "primary_entity": "One",
+        "keyword1": "One",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "One 可按设备进入对应客户端文档查看订阅配置方式，桌面端、移动端与路由器各有适配建议。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "先明确设备数量与流量需求，再对比 One 的套餐档位，选择适合的订阅方案即可开始配置。",
+          "AI_CLOSING_TITLE": "选对套餐，轻松连接",
+          "AI_DESCRIPTION": "，One 提供基础版、旗舰版与团队版三档订阅，月流量从 100GB 到 1000GB，设备支持从 3 台到 20 台，可覆盖个人、多设备用户与小型团队场景。各版本按年付更省，旗舰版与团队版分别提供 IPLC 专线与 VIP 高带宽节点，订阅后按所选客户端配置方式导入即可使用。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB，支持 3 台设备；旗舰版每月 300GB，支持 5 台设备；团队版每月 1000GB，支持 20 台设备。按年付分别约为 150 元、350 元与 850 元，可按使用人数与流量消耗选择。",
+          "AI_FAQ_ANSWER_2": "桌面端可根据系统选择常见代理客户端，移动端按系统导入订阅链接，路由器端需先确认固件并参考对应文档。不同系统版本的实际表现可能有差异，以客户端文档说明为准。",
+          "AI_FAQ_ANSWER_3": "旗舰版提供原生流媒体解锁与 IPLC 专线游戏加速优化，适合对环境要求更高的用户；团队版提供 VIP 专属高带宽节点与企业定制路由，适合多人共享。基础版可满足日常浏览与基础流媒体。",
+          "AI_FAQ_ANSWER_4": "订阅周期按月或按年计费，年付方案通常更划算。升级套餐时原流量与设备数量会在新周期内按所选版本生效，具体以订阅管理中的记录为准。",
+          "AI_FAQ_ANSWER_5": "先确认常用设备的系统与数量，再估算每月流量。1 至 3 台设备可选基础版，多设备与流媒体需求可选旗舰版，团队共享建议团队版，之后按对应客户端说明导入订阅。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "One 各套餐的流量和设备数量分别是什么？",
+          "AI_FAQ_QUESTION_2": "不同设备应该选择哪个客户端？",
+          "AI_FAQ_QUESTION_3": "旗舰版和团队版多了哪些权益？",
+          "AI_FAQ_QUESTION_4": "订阅周期和升级如何处理？",
+          "AI_FAQ_QUESTION_5": "如何根据使用需求选择套餐？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从套餐档位、设备支持与订阅周期三个角度了解 One 的订阅选择。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、支持 3 台设备，旗舰版每月 300GB、支持 5 台设备，团队版每月 1000GB、支持 20 台设备。",
+          "AI_FEATURE_TEXT_2": "桌面端、手机端与路由器端各有对应客户端，安装后按文档导入订阅即可使用。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省。基础版年付约 150 元，旗舰版约 350 元，团队版约 850 元。",
+          "AI_FEATURE_TITLE_1": "三档套餐可选",
+          "AI_FEATURE_TITLE_2": "多设备客户端",
+          "AI_FEATURE_TITLE_3": "灵活订阅周期",
+          "AI_GUIDE_INTRO": "One 的订阅配置按三步推进：先定服务档位，再核对设备与客户端要求，最后导入订阅信息。",
+          "AI_GUIDE_TITLE": "订阅配置指引",
+          "AI_HERO_INTRO": "One 提供基础版、旗舰版与团队版三档订阅，月流量从 100GB 到 1000GB，设备支持从 3 台到 20 台，覆盖个人、多设备与团队场景。",
+          "AI_HERO_SUBTITLE": "多档订阅，量需而选",
+          "AI_HIGHLIGHT_1": "100GB 至 1000GB 月流量",
+          "AI_HIGHLIGHT_2": "3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "月付年付灵活选择",
+          "AI_PLANS_INTRO": "基础版适合 1 至 3 台设备的日常使用，旗舰版在流量、设备数与线路优化上更充裕，团队版面向多人共享与高带宽场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量预估，在基础版、旗舰版和团队版中确定订阅档位。",
+          "AI_STEP_TEXT_2": "查看所选版本对应的设备数量、客户端与线路说明，确认系统适配要求。",
+          "AI_STEP_TEXT_3": "按所用客户端的文档导入订阅信息，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "One 订阅方案"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yisong7.cn",
+    "host": "yisong7.cn"
+  },
+  "file_hashes": {
+    "index.html": "d03aee9459f1f07adf218614568da5fef0ab718c91e7693b95cc860048df519d",
+    "sitemap.xml": "d91cf7a4edd5f49064b0aaecf64cf7a2a9e103a5826416cffcff1cdcf881f982",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9acc488d963614cb0a9261da7132407bdbd622ac3a80ea20de027b949c5e6768",
+    "robots.txt": "7c56091b941c152cde16db5d23bee8d06a0f44c00273bd99745ffcd4dddd6879",
+    "4ac7b4c5b7d3f59d5eb0d821ef3d767e.txt": "da9ea9d1eed77790d0637c127eb114350e188a099e4ce7d1b537034cc6db49af"
+  },
+  "revision": "7a0460521ea9c2e752e4a6c6e4706038f7101668ab1a09777d989d57db38de4a"
+}
